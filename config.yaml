@@ -1,0 +1,6 @@
+directory: "C:/Users/davidhunschersr/Desktop/OHI"
+folder_name: "2018"
+file_name: "2018 PPS"
+out_dir: "C:/Users/davidhunschersr/Desktop/OHIGather/2018PPS"
+
+exclude_folder_list: ["Work Summaries"]
