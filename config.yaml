@@ -1,6 +1,9 @@
-directory: "C:/Users/davidhunschersr/Desktop/OHI"
-folder_name: "2018"
-file_name: "2018 PPS"
-out_dir: "C:/Users/davidhunschersr/Desktop/OHIGather/2018PPS"
+directory: "C:/Users/davidhunschersr/Desktop/test"
+folder_name: "2019"
+file_names: ["2019 pps", "continued", "docx", "attachment"]
+squash_folders: "True"
+p_num_regex: "(\\d+-\\d+)"
+out_dir: "C:/Users/davidhunschersr/Desktop/PrintingAll"
 
-exclude_folder_list: ["Work Summaries"]
+
+exclude_folder_list: ["Work Summaries", "site pics"]
