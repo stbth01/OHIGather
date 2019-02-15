@@ -8,9 +8,8 @@ class DecryptPdf:
 
 
     # this function will decrypt the file located at in_file_path 
-    # if necessary, and whether or not, will leave the resulting 
-    # file in the location given by out_file_path
-    # returns boolean result: True if successful, False if unsuccessful
+    # if necessary, and whether or not, return a pdf object
+    # this is different than the decypter in the populator
     def decrypt(self, in_file_path):
         try:
             # open input file in read-binary mode
